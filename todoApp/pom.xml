@@ -14,7 +14,7 @@
 	<name>todoApp</name>
 	<description>todo app for CRUD operations</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
